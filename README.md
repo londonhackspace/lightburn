@@ -7,6 +7,7 @@ Lightburn config and smoothieware configs for the laser cutter
 ## Todo:
 
 * Clean and align optics
+* Control panel
 * Nail down configs, or at least make them easy to restore.
 * Buy lightburn licence
 * Prevent the MBED.ORG MBED USB DISK from automatically showing (requires Windows 10 Local Admin rights)
