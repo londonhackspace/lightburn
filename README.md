@@ -9,7 +9,7 @@ Lightburn config and smoothieware configs for the laser cutter. Also some techni
 * Clean and align optics
 * Control panel to improve the user interface, specifically for focusing the beam.
 * Nail down configs, or at least make them easy to restore.
-* Buy lightburn licence
+* Buy lightburn licence (paid, awaiting licence key)
 * Prevent the MBED.ORG MBED USB DISK from automatically showing (requires Windows 10 Local Admin rights)
 * Work out how to get the acnode logging laser run time reliably
 * Tidy USB and network cabling to prevent footstep damage.
