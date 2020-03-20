@@ -14,6 +14,7 @@ Lightburn config and smoothieware configs for the laser cutter. Also some techni
 - [ ] get lightburn addional seat licences (Dean)
 - [x] ~~Prevent the MBED.ORG MBED USB DISK from automatically showing (requires Windows 10 Local Admin rights)~~
 - [x] ~~Work out how to get the acnode logging laser run time~~ reliably
+- [ ] Tidy panel wiring and terminate cabling properly.
 - [ ] Tidy USB and network cabling to prevent footstep damage.
 - [ ] Differences documentation for existing lasercutter users
 - [ ] Training for new lasercutter users
