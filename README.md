@@ -4,21 +4,6 @@ Lightburn config and smoothieware configs for the laser cutter. Also some techni
 * config.txt is the Smoothieware config. Lives on the root of the removable media mounted from the MBED.ORG MBED USB DISK USB Device
 * prefs.ini is the Lightburn config. Lives in the C:\Users\Laser Cutter User\AppData\Local\LightBurn folder
 
-## TODO
-
-- [ ] Clean and align optics
-- [x] ~~Control panel to improve the user interface, specifically for focusing the beam.~~
-- [ ] Nail down configs, or at least make them easy to restore.
-- [x] ~~Buy lightburn licence (paid, awaiting licence key)~~
-- [ ] Install lightburn licence (Dean) 
-- [ ] get lightburn addional seat licences (Dean)
-- [x] ~~Prevent the MBED.ORG MBED USB DISK from automatically showing~~
-- [x] ~~Work out how to get the acnode logging laser run time~~ reliably
-- [ ] Tidy panel wiring and terminate cabling properly.
-- [ ] Tidy USB and network cabling to prevent footstep damage.
-- [ ] Differences documentation for existing lasercutter users
-- [ ] Training for new lasercutter users
-- [ ] Enjoy
 
 ## Summary of changes from stock Silvertail setup
 
