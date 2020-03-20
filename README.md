@@ -9,7 +9,7 @@ Lightburn config and smoothieware configs for the laser cutter. Also some techni
 - [ ] Clean and align optics
 - [x] ~~Control panel to improve the user interface, specifically for focusing the beam.~~
 - [ ] Nail down configs, or at least make them easy to restore.
-- [x ] Buy lightburn licence (paid, awaiting licence key)
+- [x] Buy lightburn licence (paid, awaiting licence key)
 - [ ] Install lightburn licence (Dean) 
 - [ ] get lightburn addional seat licences (Dean)
 - [x] ~~Prevent the MBED.ORG MBED USB DISK from automatically showing (requires Windows 10 Local Admin rights)~~
