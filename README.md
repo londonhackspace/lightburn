@@ -1,7 +1,7 @@
 # lightburn
 Lightburn config and smoothieware configs for the laser cutter. Also some technical details of the hardware setup.
 
-* config.txt is the Smoothieware config. Lives on the root of the removable media mounted from the MBED.ORG MBED USB DISK USB Device
+* config.txt is the Smoothieware config. Lives on the root of the removable media mounted from the MBED.ORG MBED USB DISK USB Device, along with the firmware that is being flashed to the device, if the flashing is sucsessful the firmware will be renamed FIRMWARE.CUR for FIRMWARE.BIN 
 * prefs.ini is the Lightburn config. Lives in the C:\Users\Laser Cutter User\AppData\Local\LightBurn folder
 
 
