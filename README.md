@@ -7,7 +7,7 @@ Lightburn config and smoothieware configs for the laser cutter. Also some techni
 
 ## Summary of changes from stock Silvertail setup
 
-* Faulty Proprietary controller board replaced with a Smoothieboard clone V1.0
+* Faulty Proprietary controller board replaced with a Smoothieboard clone a MKS V1.0
 * Extra microswitch endstop limit switches installed for X min, Y min.
 * Replaced faulty Y max limit switch.
 * ACnode now powers down the Smoothieboard controller by interrupting +5V power to it.
